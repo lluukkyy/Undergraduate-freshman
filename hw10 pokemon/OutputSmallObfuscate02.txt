@@ -1,0 +1,16 @@
+  2 Amaura(s):      open vivacious
+  1 Aurorus(s):     open
+  3 Chimchar(s):    carved straight yummy
+  6 Field(s):       bungling carved cloudy high straight yummy
+  2 Grass(s):       calm wide
+  3 HumanLike(s):   carved straight yummy
+  1 Infernape(s):   yummy
+  2 Monferno(s):    carved yummy
+  2 Monster(s):     open vivacious
+ 10 Pokemon(s):     bungling calm carved cloudy high open straight vivacious wide yummy
+  2 Sealeo(s):      cloudy high
+  3 Spheal(s):      bungling cloudy high
+  1 Sunflora(s):    calm
+  2 Sunkern(s):     calm wide
+  1 Walrein(s):     high
+  3 Water1(s):      bungling cloudy high
